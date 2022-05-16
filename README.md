@@ -1,8 +1,8 @@
-#Conformal prediction models for MIEs in the thyroid hormone system
+# Conformal prediction models for MIEs in the thyroid hormone system
 
 The models are part of the [RiskMix project](https://www.aces.su.se/riskmix/) and described in Dracheva et al.[^1].
 
-####Dependencies
+#### Dependencies
 
 - Python (version 3.5)
 - numpy (version 1.16.6)
@@ -11,10 +11,10 @@ The models are part of the [RiskMix project](https://www.aces.su.se/riskmix/) an
 - scikit-learn (version 0.18.2)
 - nonconformist
 
-####Usage
+#### Usage
 
 Models are stored in model_files folder and are available via the link:
-        https://drive.google.com/file/d/1yTfS9bLOEY3jUdDRTsyc_dSzKsXBb9aE/view?usp=sharing
+        https://drive.google.com/file/d/1yTfS9bLOEY3jUdDRTsyc_dSzKsXBb9aE/view?usp=sharing  
 Archive password: conformal
 
 1. Thyroid-specific models:
